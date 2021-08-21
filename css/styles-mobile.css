@@ -75,8 +75,9 @@ body {
 .plan__link {
     color:var(--bright-blue);
     text-decoration: underline;
-    margin-left: 10px;
     cursor: pointer;
+    margin-left: auto;
+    margin-right: 10px;
 }
 
 .plan__link:hover{
