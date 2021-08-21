@@ -107,5 +107,8 @@ body {
 .card_content__link:hover {
     color: var(--dark-blue);
 }
-.attribution { font-size: 11px; text-align: center; }
+.attribution { 
+    font-size: 11px; text-align: center; 
+    margin-bottom: 30px;
+}
 .attribution a { color: hsl(228, 45%, 44%); }

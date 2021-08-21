@@ -1,0 +1,11 @@
+@media (min-width: 376px) {
+    body {
+        background-image: url("../images/pattern-background-desktop.svg");
+    }
+
+    .card {        
+        max-width: 375px;
+        margin-top: 150px;
+        margin-bottom: 94px;
+    }
+}
